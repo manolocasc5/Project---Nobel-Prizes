@@ -7,11 +7,15 @@ Guión Premios Nobel
 👨💼 SOLICITUD DEL CLIENTE
 “Queremos identificar posibles patrones, cambios o sesgos históricos en la entrega de los
 Premios Nobel, con el fin de fomentar una mayor equidad y representatividad.”
+
 ● Identificar patrones históricos: distribución por género, país y disciplina a lo largo del
 tiempo.
+
 ● Evaluar la representación de género en las distintas categorías.
+
 ● Analizar la evolución temporal de la concesión de premios.
+
 ● Comparar la representación geográfica entre países o regiones.
+
 ● Proponer recomendaciones para mejorar la diversidad y representación futura.
 
-lkhdjkshdsj
