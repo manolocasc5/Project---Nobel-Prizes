@@ -13,3 +13,5 @@ tiempo.
 ● Analizar la evolución temporal de la concesión de premios.
 ● Comparar la representación geográfica entre países o regiones.
 ● Proponer recomendaciones para mejorar la diversidad y representación futura.
+
+lkhdjkshdsj
