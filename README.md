@@ -34,7 +34,9 @@ Análisis previo al EDA.
 
 
 Día 2. Análisis de datos con gráficos:
+-----------------------------------------
 
 ![Screenshot from 2025-03-25 10-45-33](https://github.com/user-attachments/assets/a7f2cba2-dba9-4e8f-91f5-6ee9d4a58677)
 
-![Screenshot from 2025-03-25 10-48-04](https://github.com/user-attachments/assets/d95f0a19-d306-4ce8-9d35-1326c1650fe8)
+![Screenshot from 2025-03-25 10-50-00](https://github.com/user-attachments/assets/d27d5597-08a5-4ed2-8c25-e0208b8a44be)
+
