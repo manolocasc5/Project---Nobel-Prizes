@@ -24,6 +24,7 @@ Día 1. Visualización general de registros.
 -----------------------------------------
 
 Análisis previo al EDA.
+
 -No se detectan registros duplicados.
 
 -Se detectan IDs repetidos y NULL.
