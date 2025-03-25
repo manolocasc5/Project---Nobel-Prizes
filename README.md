@@ -19,3 +19,22 @@ tiempo.
 
 ● Proponer recomendaciones para mejorar la diversidad y representación futura.
 
+-------------------------------------------------
+Día 1. Visualización general de registros.
+-----------------------------------------
+
+Análisis previo al EDA.
+-No se detectan registros duplicados.
+-Se detectan IDs repetidos y NULL.
+-Fecha nacimiento o muerte NULL.
+-Born Country con valor NULL o ??.
+-Overall motivation mayor parte NULL.
+-Hay lugares de muerte NULL.
+-Nombre de organizaciones NULL.
+
+
+Día 2. Análisis de datos con gráficos:
+
+![Screenshot from 2025-03-25 10-45-33](https://github.com/user-attachments/assets/a7f2cba2-dba9-4e8f-91f5-6ee9d4a58677)
+
+![Screenshot from 2025-03-25 10-48-04](https://github.com/user-attachments/assets/d95f0a19-d306-4ce8-9d35-1326c1650fe8)
