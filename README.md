@@ -50,7 +50,7 @@ Día 2. Análisis de datos con gráficos:
 ![Screenshot from 2025-03-25 15-09-16](https://github.com/user-attachments/assets/05b6761b-de58-4367-b4b9-8e3d3fe5f30f)
 
 -Descubrimiento de coordenadas. (Deben cambiarse a formato GEO en LookerStudio)
--------------------------------------
+
 ![Screenshot_from_2025-03-25_15-07-52](https://github.com/user-attachments/assets/43942fe5-711f-45be-8d71-1118c7adb067) 
 ![Screenshot_from_2025-03-25_15-08-13](https://github.com/user-attachments/assets/4aa585c3-5c2d-4868-a204-02fbf5614ebd)
 
