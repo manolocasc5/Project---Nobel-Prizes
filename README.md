@@ -47,3 +47,4 @@ Día 2. Análisis de datos con gráficos:
 
 ![Screenshot from 2025-03-25 11-42-52](https://github.com/user-attachments/assets/a0809694-f74b-48f1-b29d-20cabf0e1ac3)
 
+![Screenshot from 2025-03-25 12-27-36](https://github.com/user-attachments/assets/5b410310-a0c3-4c10-a514-790c3f245bb4)
