@@ -25,11 +25,17 @@ Día 1. Visualización general de registros.
 
 Análisis previo al EDA.
 -No se detectan registros duplicados.
+
 -Se detectan IDs repetidos y NULL.
+
 -Fecha nacimiento o muerte NULL.
+
 -Born Country con valor NULL o ??.
+
 -Overall motivation mayor parte NULL.
+
 -Hay lugares de muerte NULL.
+
 -Nombre de organizaciones NULL.
 
 
