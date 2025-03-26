@@ -145,3 +145,28 @@ Contribuciones de otros países: Aunque en menor medida, países como Suecia, Ja
 Categoría "Sin afiliación": La categoría "Sin afiliación" indica premios otorgados a individuos que no estaban afiliados a ninguna institución en el momento de recibir el premio. Estos casos son menos frecuentes.
 
 En resumen, esta gráfica destaca la notable contribución de Estados Unidos a la investigación y los logros reconocidos por los premios Nobel, a la vez que muestra la importancia histórica de varios países europeos y las contribuciones de otras naciones a lo largo del siglo XX y principios del XXI.
+
+
+Estadísticas de premios Nobel por género.
+-
+![Screenshot from 2025-03-26 15-52-00](https://github.com/user-attachments/assets/19ed3761-4631-4e14-a500-0ad2f7f4e04e)
+
+·Gráfico de quesitos:
+
+    Representa el porcentaje total de premios otorgados a hombres y mujeres.
+
+·Gráfico de barras:
+
+    Muestra la distribución de premios por categoría y género.
+
+    En todas las categorías (Economía, Paz, Literatura, Química, Física y Medicina) los hombres dominan ampliamente.
+
+    La Paz y la Literatura son las categorías donde las mujeres tienen una mayor representación relativa.
+
+·Gráfico de línea:
+
+    Muestra la acumulación de premios a lo largo del tiempo.
+
+    La línea de hombres crece de forma constante y pronunciada.
+
+    La línea de mujeres se mantiene muy baja, aunque con un leve aumento en las últimas décadas.
