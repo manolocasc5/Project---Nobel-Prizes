@@ -100,3 +100,95 @@ El gráfico muestra la evolución anual en la concesión de premios Nobel desde 
     Crear vista por décadas para identificar tendencias de más largo plazo
 
 Este análisis revela que la concesión de premios Nobel funciona como termómetro del desarrollo científico global, reflejando eventos históricos y cambios en la geopolítica de la investigación.
+
+![Screenshot from 2025-03-26 14-14-09](https://github.com/user-attachments/assets/afdaf3a2-db0a-4ab8-9da9-953b317490bd)
+
+Esta gráfica de líneas muestra el número de premios Nobel otorgados en seis categorías diferentes (Medicina, Física, Química, Paz, Literatura y Economía) a lo largo del tiempo, desde 1901 hasta 2022.
+
+Descripción de la gráfica:
+
+Eje X (Horizontal): Representa los años, con marcas cada 11 años desde 1901 hasta 2022.
+Eje Y (Vertical): Representa el recuento de premios Nobel otorgados en un año determinado, con valores que van de 0 a 4.
+Líneas de colores: Cada línea representa una categoría diferente del Premio Nobel, con una leyenda en la parte superior para identificar cada color.
+Puntos de datos: Cada punto en una línea representa el número de premios Nobel otorgados en esa categoría en un año específico.
+Conclusiones que se pueden obtener de la gráfica:
+
+Tendencia general al aumento: Se observa una tendencia general al aumento en el número de premios Nobel otorgados por año en todas las categorías a lo largo del tiempo. Esto podría reflejar el crecimiento de la investigación científica y el reconocimiento de logros en diversas áreas.
+Variaciones por categoría: El número de premios Nobel otorgados varía significativamente entre las diferentes categorías. Por ejemplo, Medicina y Física tienden a tener un mayor número de premios otorgados en comparación con Literatura y Economía.
+Picos y valles: Se pueden observar picos y valles en el número de premios otorgados en algunas categorías en ciertos años. Estos picos y valles podrían estar relacionados con eventos históricos específicos, como guerras o crisis económicas, que podrían haber afectado la investigación y el reconocimiento en ciertas áreas.
+Estabilidad en algunas categorías: Algunas categorías, como Economía, muestran una mayor estabilidad en el número de premios otorgados por año en comparación con otras categorías.
+Aumento en el siglo XXI: Se observa un aumento notable en el número de premios Nobel otorgados en todas las categorías a partir del siglo XXI. Esto podría reflejar un mayor énfasis en la investigación y el desarrollo en diversas áreas en los últimos años.
+
+En general, esta gráfica proporciona una visión general interesante de la distribución de los premios Nobel a lo largo del tiempo y destaca algunas tendencias y variaciones importantes entre las diferentes categorías.
+
+![image](https://github.com/user-attachments/assets/7a781e8a-87c4-4ae0-a3bd-4ad9f8c64b53)
+
+Esta gráfica de líneas muestra el número de premios Nobel otorgados en seis categorías diferentes (Medicina, Física, Química, Paz, Literatura y Economía) a lo largo del tiempo, desde 1901 hasta 2022.
+
+Descripción de la gráfica:
+
+Eje X (Horizontal): Representa los años, con marcas cada 11 años desde 1901 hasta 2022.
+Eje Y (Vertical): Representa el recuento de premios Nobel otorgados en un año determinado, con valores que van de 0 a 4.
+Líneas de colores: Cada línea representa una categoría diferente del Premio Nobel, con una leyenda en la parte superior para identificar cada color.
+Puntos de datos: Cada punto en una línea representa el número de premios Nobel otorgados en esa categoría en un año específico.
+Conclusiones que se pueden obtener de la gráfica:
+
+Tendencia general al aumento: Se observa una tendencia general al aumento en el número de premios Nobel otorgados por año en todas las categorías a lo largo del tiempo. Esto podría reflejar el crecimiento de la investigación científica y el reconocimiento de logros en diversas áreas.
+Variaciones por categoría: El número de premios Nobel otorgados varía significativamente entre las diferentes categorías. Por ejemplo, Medicina y Física tienden a tener un mayor número de premios otorgados en comparación con Literatura y Economía.
+Picos y valles: Se pueden observar picos y valles en el número de premios otorgados en algunas categorías en ciertos años. Estos picos y valles podrían estar relacionados con eventos históricos específicos, como guerras o crisis económicas, que podrían haber afectado la investigación y el reconocimiento en ciertas áreas.
+Estabilidad en algunas categorías: Algunas categorías, como Economía, muestran una mayor estabilidad en el número de premios otorgados por año en comparación con otras categorías.
+Aumento en el siglo XXI: Se observa un aumento notable en el número de premios Nobel otorgados en todas las categorías a partir del siglo XXI. Esto podría reflejar un mayor énfasis en la investigación y el desarrollo en diversas áreas en los últimos años.
+Limitaciones:
+
+La gráfica muestra el número total de premios Nobel otorgados por año en cada categoría, pero no proporciona información sobre el número de laureados individuales o compartidos.
+La gráfica no tiene en cuenta los cambios en la población mundial o el número de investigadores en cada campo a lo largo del tiempo, lo que podría influir en el número de premios otorgados.
+En general, esta gráfica proporciona una visión general interesante de la distribución de los premios Nobel a lo largo del tiempo y destaca algunas tendencias y variaciones importantes entre las diferentes categorías. Sin embargo, es importante tener en cuenta las limitaciones de la gráfica al interpretar los resultados.
+
+
+
+
+
+Dame por favor una descripción breve, resumida...
+
+
+La gráfica muestra cómo han variado los premios Nobel en seis categorías (Medicina, Física, Química, Paz, Literatura, Economía) desde 1901 hasta 2022. En general, se ve un aumento en el número de premios con el tiempo, pero con altibajos y diferencias entre categorías. Medicina y Física suelen tener más premios que Literatura y Economía.
+
+
+
+
+
+Y para esta otra gráfica?
+
+
+
+No puedo ofrecerte ayuda, ya que solo soy un modelo de lenguaje sin la capacidad para procesar y entender esa información.
+
+Las Palmas de Gran Canaria, España
+
+
+
+
+Como experto analista de datos que eres, me podrías dar una descripción de la gráfica que te paso y de las conclusiones que se pueden obtener de ella?
+
+
+La gráfica de líneas muestra el número de premios Nobel otorgados por país de afiliación del laureado a lo largo del tiempo, desde 1901 hasta 2022.
+
+Descripción de la gráfica:
+
+Eje X (Horizontal): Representa los años, con marcas cada 11 años desde 1901 hasta 2022.
+Eje Y (Vertical): Representa el recuento de premios Nobel otorgados a personas afiliadas a instituciones en un país determinado en un año específico, con valores que van de 0 a 10.
+Líneas de colores: Cada línea representa un país diferente, con una leyenda en la parte superior para identificar cada color. Se incluyen países como Estados Unidos, Reino Unido, Alemania, Francia, Suiza, Suecia, Japón, Rusia y los Países Bajos, además de una categoría para "Sin afiliación".
+Puntos de datos: Cada punto en una línea representa el número de premios Nobel otorgados a personas afiliadas a instituciones en ese país en un año específico.
+Conclusiones que se pueden obtener de la gráfica:
+
+Dominio de Estados Unidos: Se observa un claro dominio de Estados Unidos en el número de premios Nobel otorgados a lo largo del tiempo, especialmente a partir de la segunda mitad del siglo XX.
+Importancia histórica de países europeos: Reino Unido, Alemania y Francia también han tenido una contribución significativa al número de premios Nobel, especialmente en las primeras décadas.
+Aumento general en el tiempo: Al igual que en la gráfica anterior, se aprecia una tendencia general al aumento en el número de premios Nobel otorgados por año, incluso al considerar la afiliación por país.
+Variaciones y picos: Se pueden observar variaciones anuales y picos en el número de premios otorgados a cada país, lo que podría reflejar eventos históricos, inversiones en investigación o el surgimiento de investigadores destacados.
+Contribuciones de otros países: Aunque en menor medida, países como Suecia, Japón, Rusia y los Países Bajos también han tenido laureados con premios Nobel a lo largo del tiempo.
+Categoría "Sin afiliación": La categoría "Sin afiliación" indica premios otorgados a individuos que no estaban afiliados a ninguna institución en el momento de recibir el premio. Estos casos son menos frecuentes.
+
+En resumen, esta gráfica destaca la notable contribución de Estados Unidos a la investigación y los logros reconocidos por los premios Nobel, a la vez que muestra la importancia histórica de varios países europeos y las contribuciones de otras naciones a lo largo del siglo XX y principios del XXI.
+
+
+
