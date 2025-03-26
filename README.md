@@ -102,8 +102,8 @@ El gráfico muestra la evolución anual en la concesión de premios Nobel desde 
 Este análisis revela que la concesión de premios Nobel funciona como termómetro del desarrollo científico global, reflejando eventos históricos y cambios en la geopolítica de la investigación.
 
 
-## Nobel Prizes by Discipline
-![Screenshot from 2025-03-26 14-14-09](https://github.com/user-attachments/assets/afdaf3a2-db0a-4ab8-9da9-953b317490bd)
+## Nobel Prizes by Discipline Over Time
+![Screenshot from 2025-03-26 15-51-22](https://github.com/user-attachments/assets/bc3f51ae-1108-45bb-b45e-fe1709b380bf)
 
 Esta gráfica de líneas muestra el número de premios Nobel otorgados en seis categorías diferentes (Medicina, Física, Química, Paz, Literatura y Economía) a lo largo del tiempo, desde 1901 hasta 2022.
 
@@ -124,8 +124,8 @@ Aumento en el siglo XXI: Se observa un aumento notable en el número de premios 
 
 En general, esta gráfica proporciona una visión general interesante de la distribución de los premios Nobel a lo largo del tiempo y destaca algunas tendencias y variaciones importantes entre las diferentes categorías.
 
-## Nobel Prizes by Country
-![image](https://github.com/user-attachments/assets/7a781e8a-87c4-4ae0-a3bd-4ad9f8c64b53)
+## Nobel Prizes by Country Over Time
+![Screenshot from 2025-03-26 15-53-25](https://github.com/user-attachments/assets/d3b88741-e2c9-4297-a196-1fed18522cea)
 
 La gráfica de líneas muestra el número de premios Nobel otorgados por país de afiliación del laureado a lo largo del tiempo, desde 1901 hasta 2022.
 
