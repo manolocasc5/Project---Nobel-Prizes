@@ -72,7 +72,9 @@ El gráfico muestra la evolución anual en la concesión de premios Nobel desde 
 
   Promedio histórico:
     - 1901-1940: 5 premios/año
+    
     - 1950-2000: 10 premios/año
+    
     - 2001-presente: 12-15 premios/año
 
 2. Eventos históricos visibles
@@ -88,34 +90,6 @@ El gráfico muestra la evolución anual en la concesión de premios Nobel desde 
 
     Aumento de categorías: Algunos años muestran "picos" que podrían corresponder a premios compartidos o categorías especiales.
 
-Análisis por Periodos
-Periodo 1901-1940 (Primera etapa)
-
-    Patrón estable: Concesión regular de 4-6 premios anuales
-
-    Dominio europeo: La mayoría de premiados procedían de Europa Occidental
-
-Periodo 1945-1990 (Expansión)
-
-    Crecimiento sostenido: Aumento a 10 premios/año
-
-    Diversificación geográfica: Mayor participación de EE.UU. y otros países
-
-Periodo 1991-Presente (Globalización)
-
-    Máximos históricos: Alcanzando 12-15 premios anuales
-
-    Mayor diversidad: Inclusión de más países y aumentos en premiados femeninos
-
-Limitaciones de los Datos
-
-    Efecto categorías: La agregación total puede ocultar variaciones entre categorías específicas
-
-    Premios compartidos: Algunos años pueden mostrar más premios porque se dividieron entre varios ganadores
-
-    Cambios geopolíticos: Países desaparecidos o renombrados afectan la consistencia de datos históricos
-
-Recomendaciones
 
     Segmentar por categorías para identificar patrones específicos
 
