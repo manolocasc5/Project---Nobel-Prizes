@@ -97,7 +97,7 @@ Periodo 1901-1940 (Primera etapa)
 
 Periodo 1945-1990 (Expansión)
 
-    Crecimiento sostenido: Aumento a ~10 premios/año
+    Crecimiento sostenido: Aumento a 10 premios/año
 
     Diversificación geográfica: Mayor participación de EE.UU. y otros países
 
