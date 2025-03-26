@@ -155,6 +155,7 @@ Estadísticas de premios Nobel por género.
 
 Representa el porcentaje total de premios otorgados a hombres y mujeres.
 
+
 ·Gráfico de barras:
 
 Muestra la distribución de premios por categoría y género.
@@ -162,6 +163,7 @@ Muestra la distribución de premios por categoría y género.
 En todas las categorías (Economía, Paz, Literatura, Química, Física y Medicina) los hombres dominan ampliamente.
 
 La Paz y la Literatura son las categorías donde las mujeres tienen una mayor representación relativa.
+
 
 ·Gráfico de línea:
 
