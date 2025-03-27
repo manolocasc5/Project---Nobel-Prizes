@@ -148,7 +148,7 @@ Categoría "Sin afiliación": La categoría "Sin afiliación" indica premios oto
 En resumen, esta gráfica destaca la notable contribución de Estados Unidos a la investigación y los logros reconocidos por los premios Nobel, a la vez que muestra la importancia histórica de varios países europeos y las contribuciones de otras naciones a lo largo del siglo XX y principios del XXI.
 
 
-Estadísticas de premios Nobel por género.
+## Estadísticas de premios Nobel por género.
 -
 ![Screenshot from 2025-03-26 15-52-00](https://github.com/user-attachments/assets/19ed3761-4631-4e14-a500-0ad2f7f4e04e)
 
@@ -166,3 +166,5 @@ Gráfica lineal:
 
 ·Una comparativa a lo largo de los años entre hombres y mujeres premiados. Aquí se puede apreciar que la línea de hombres crece de forma constante y pronunciada mientras que la de mujeres se mantiene baja y casi sin cambios. Sin embargo, entre 1960 y 1990 se aprecia la primera subida significante que, aun manteniendo la gran disparidad con hombres, es un dato crucial para saber sobre qué años empezaron a recibir muchos más premios. De ahí en adelante, su incremento ha sido exponencial, pero no similar a los premiados masculinos.
 
+## Representación geográfica entre países o regiones
+![image](https://github.com/user-attachments/assets/38ef3b19-13fe-4f7f-98d2-2655e34d5491)
