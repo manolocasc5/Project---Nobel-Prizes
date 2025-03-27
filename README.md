@@ -154,15 +154,15 @@ Estadísticas de premios Nobel por género.
 
 Estudio desde 1901-2023
 
-Gráfica de quesitos
+Gráfica de quesitos:
 
-Porcentaje total de premios otorgados a hombres y mujeres. Se aprecia predominio masculino.
+·Porcentaje total de premios otorgados a hombres y mujeres. Se aprecia predominio masculino.
 
-Gráfica de barras
+Gráfica de barras:
 
-A pesar de que hay una gran disparidad en todas las categorías, curiosamente, las que están relacionadas con la Paz y la Literatura son las categorías donde las mujeres tienen una mayor representación y visión. Por el contrario, Economía es la que menos mujeres premiadas tiene, no obstante, su entrega de premios es menor que el resto, por lo que su casi ausencia es comprensible si comparamos las barras.
+·A pesar de que hay una gran disparidad en todas las categorías, curiosamente, las que están relacionadas con la Paz y la Literatura son las categorías donde las mujeres tienen una mayor representación y visión. Por el contrario, Economía es la que menos mujeres premiadas tiene, no obstante, su entrega de premios es menor que el resto, por lo que su casi ausencia es comprensible si comparamos las barras.
 
-Gráfica lineal
+Gráfica lineal:
 
-Una comparativa a lo largo de los años entre hombres y mujeres premiados. Aquí se puede apreciar que la línea de hombres crece de forma constante y pronunciada mientras que la de mujeres se mantiene baja y casi sin cambios. Sin embargo, entre 1960 y 1990 se aprecia la primera subida significante que, aun manteniendo la gran disparidad con hombres, es un dato crucial para saber sobre qué años empezaron a recibir muchos más premios. De ahí en adelante, su incremento ha sido exponencial, pero no similar a los premiados masculinos.
+·Una comparativa a lo largo de los años entre hombres y mujeres premiados. Aquí se puede apreciar que la línea de hombres crece de forma constante y pronunciada mientras que la de mujeres se mantiene baja y casi sin cambios. Sin embargo, entre 1960 y 1990 se aprecia la primera subida significante que, aun manteniendo la gran disparidad con hombres, es un dato crucial para saber sobre qué años empezaron a recibir muchos más premios. De ahí en adelante, su incremento ha sido exponencial, pero no similar a los premiados masculinos.
 
