@@ -152,24 +152,17 @@ Estadísticas de premios Nobel por género.
 -
 ![Screenshot from 2025-03-26 15-52-00](https://github.com/user-attachments/assets/19ed3761-4631-4e14-a500-0ad2f7f4e04e)
 
-·Gráfico de quesitos:
+Estudio desde 1901-2023
 
-Representa el porcentaje total de premios otorgados a hombres y mujeres.
+Gráfica de quesitos
 
+Porcentaje total de premios otorgados a hombres y mujeres. Se aprecia predominio masculino.
 
-·Gráfico de barras:
+Gráfica de barras
 
-Muestra la distribución de premios por categoría y género.
+A pesar de que hay una gran disparidad en todas las categorías, curiosamente, las que están relacionadas con la Paz y la Literatura son las categorías donde las mujeres tienen una mayor representación y visión. Por el contrario, Economía es la que menos mujeres premiadas tiene, no obstante, su entrega de premios es menor que el resto, por lo que su casi ausencia es comprensible si comparamos las barras.
 
-En todas las categorías (Economía, Paz, Literatura, Química, Física y Medicina) los hombres dominan ampliamente.
+Gráfica lineal
 
-La Paz y la Literatura son las categorías donde las mujeres tienen una mayor representación relativa.
+Una comparativa a lo largo de los años entre hombres y mujeres premiados. Aquí se puede apreciar que la línea de hombres crece de forma constante y pronunciada mientras que la de mujeres se mantiene baja y casi sin cambios. Sin embargo, entre 1960 y 1990 se aprecia la primera subida significante que, aun manteniendo la gran disparidad con hombres, es un dato crucial para saber sobre qué años empezaron a recibir muchos más premios. De ahí en adelante, su incremento ha sido exponencial, pero no similar a los premiados masculinos.
 
-
-·Gráfico de línea:
-
-Muestra la acumulación de premios a lo largo del tiempo.
-
-La línea de hombres crece de forma constante y pronunciada.
-
-La línea de mujeres se mantiene muy baja, aunque con un leve aumento en las últimas décadas.
