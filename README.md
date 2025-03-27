@@ -73,15 +73,15 @@ Hallazgos clave:
 
   Promedio histórico:
     
-    - 1901-1940: 5 premios/año
+    - 1901-1940: 5 premios/año.
     - 1914-1918 (Primera Guerra Mundial): hubo una disminución en la concesión de premios, especialmente en categorías como Paz y Literatura.
     - 1939-1945 (Segunda Guerra Mundial): Caída más pronunciada y eventos como la Guerra Fría también afectaron.
-    - 1950-2000: 10 premios/año
-    - 2001-presente: 12-15 premios/año
+    - 1950-2000: 10 premios/año.
+    - 2001-presente: 12-15 premios/año.
 
 2. Edad de los Galardonados
 
-   Se aprecian edades desde los 17 años, a destacar por ser la más joven de la historia Malala Yousafzai en 2014 Premio Nobel de la Paz, hasta el profesor John Goodenoughlos con 97 años en ganar un Premio Nobel en 2019. En su caso de Química por su contribución al desarrollo de las baterías de iones de litio, al que ha dedicado décadas de años de trabajo y aún actico
+   Se aprecian edades desde los 17 años, a destacar por ser la más joven de la historia Malala Yousafzai en 2014 Premio Nobel de la Paz, hasta el profesor John Goodenoughlos con 97 años en ganar un Premio Nobel en 2019. En su caso de Química por su contribución al desarrollo de las baterías de iones de litio, al que ha dedicado décadas de años de trabajo y aún activo.
 
 Tendencias por disciplina:
 
