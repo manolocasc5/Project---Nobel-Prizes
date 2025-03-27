@@ -71,6 +71,7 @@ El gráfico muestra la evolución anual en la concesión de premios Nobel desde 
     Crecimiento notable: Se observa un aumento progresivo en el número de premios concedidos por año, especialmente a partir de 1950.
 
   Promedio histórico:
+    
     - 1901-1940: 5 premios/año
     
     - 1950-2000: 10 premios/año
