@@ -59,8 +59,7 @@ GOOGLE LOOKER STUDIO:
 
 Análisis de Gráfico de Evolución Temporal de Premios Nobel
 
-![Screenshot from 2025-03-26 11-10-54](https://github.com/user-attachments/assets/0cc98f02-fe8a-4cf4-afd6-4a0823916e8c)
-
+![Screenshot from 2025-03-27 14-55-15](https://github.com/user-attachments/assets/98c6637e-6f7f-4396-ba0d-7b1362d9ae72)
 
 Descripción del Gráfico
 
