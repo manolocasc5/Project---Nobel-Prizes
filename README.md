@@ -149,8 +149,8 @@ En resumen, esta gráfica destaca la notable contribución de Estados Unidos a l
 
 
 ## Estadísticas de premios Nobel por género.
--
-![Screenshot from 2025-03-26 15-52-00](https://github.com/user-attachments/assets/19ed3761-4631-4e14-a500-0ad2f7f4e04e)
+![image](https://github.com/user-attachments/assets/286e14a9-e3dc-4571-9b9c-528addffd7c7)
+
 
 Estudio desde 1901-2023
 
