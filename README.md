@@ -57,7 +57,7 @@ Día 2. Análisis de datos con gráficos:
 GOOGLE LOOKER STUDIO:
 -----------------------
 
-Análisis de Gráfico de Evolución Temporal de Premios Nobel
+## Análisis de Gráfico de Evolución Temporal de Premios Nobel
 
 ![Screenshot from 2025-03-27 14-55-15](https://github.com/user-attachments/assets/98c6637e-6f7f-4396-ba0d-7b1362d9ae72)
 
