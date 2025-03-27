@@ -69,32 +69,25 @@ Hallazgos clave:
 
 1. Tendencia general ascendente
 
-    Se observa un aumento progresivo en el número de premios concedidos por año, especialmente a partir de 1950.
+    Se observa un aumento progresivo en el número de premios concedidos por año con picos notables como en 2001, donde se registró la mayor cantidad de galardonados, aumentos de categorías que podrían corresponder a premios compartidos o categorías especiales, avances científicos significativos o a la acumulación de méritos en períodos anteriores, especialmente a partir de 1950. En 1969 punto de inflexión visible con la introducción del Premio en Ciencias Económicas. 
 
   Promedio histórico:
     
     - 1901-1940: 5 premios/año
-    
+    - 1914-1918 (Primera Guerra Mundial): hubo una disminución en la concesión de premios, especialmente en categorías como Paz y Literatura.
+    - 1939-1945 (Segunda Guerra Mundial): Caída más pronunciada y eventos como la Guerra Fría también afectaron.
     - 1950-2000: 10 premios/año
-    
     - 2001-presente: 12-15 premios/año
 
-2. Eventos históricos visibles
-    Algunos años muestran cero premios en ciertas categorías durante periodos bélicos.
-   
-    Impacto de guerras mundiales:
-      - Notable disminución 1914-1918 (Primera Guerra Mundial)
-      - Caída más pronunciada 1939-1945 (Segunda Guerra Mundial)
-    
+2. Edad de los Galardonados
 
-4. Cambios institucionales
+   Se aprecian edades desde los 17 años, a destacar por ser la más joven de la historia Malala Yousafzai en 2014 Premio Nobel de la Paz, hasta el profesor John Goodenoughlos con 97 años en ganar un Premio Nobel en 2019. En su caso de Química por su contribución al desarrollo de las baterías de iones de litio, al que ha dedicado décadas de años de trabajo y aún actico
 
-    1969: Punto de inflexión visible con la introducción del Premio en Ciencias Económicas.
+Tendencias por disciplina:
 
-    Aumento de categorías: Algunos años muestran "picos" que podrían corresponder a premios compartidos o categorías especiales.
+    Ciencias (Física, Química, Medicina): Los premiados suelen ser mayores (50-70 años), ya que sus contribuciones requieren años de estudio.
 
-Este análisis revela que la concesión de premios Nobel reflejando eventos históricos y cambios en la geopolítica de la investigación.
-
+    Paz y Literatura: Edades más variadas, incluyendo galardonados jóvenes con impacto inmediato (activistas).
 
 ## Nobel Prizes by Discipline Over Time
 ![Screenshot from 2025-03-26 15-51-22](https://github.com/user-attachments/assets/bc3f51ae-1108-45bb-b45e-fe1709b380bf)
