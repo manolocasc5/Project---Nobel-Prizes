@@ -152,6 +152,75 @@ Gráfica lineal:
 
 ·Una comparativa a lo largo de los años entre hombres y mujeres premiados. Aquí se puede apreciar que la línea de hombres crece de forma constante y pronunciada mientras que la de mujeres se mantiene baja y casi sin cambios. Sin embargo, entre 1960 y 1990 se aprecia la primera subida significante que, aun manteniendo la gran disparidad con hombres, es un dato crucial para saber sobre qué años empezaron a recibir muchos más premios. De ahí en adelante, su incremento ha sido exponencial, pero no similar a los premiados masculinos.
 
+## APORTACION POR JB!! LEER Y REVISAR/MODIFICAR
+
+1. Casos de Mujeres No Reconocidas en los Premios Nobel
+A lo largo de la historia, varias mujeres han sido ignoradas o desplazadas en favor de hombres (maridos, colegas o superiores). Algunos casos conocidos:
+
+A. Rosalind Franklin (Química, 1962)
+Contribución: Descubrió la estructura del ADN mediante cristalografía de rayos X (Fotografía 51).
+
+Premio dado a: James Watson, Francis Crick y Maurice Wilkins (1962, Fisiología/Medicina).
+
+Razón: Murió antes de la nominación (1958), y su trabajo fue usado sin reconocimiento explícito.
+
+B. Lise Meitner (Física, 1944)
+Contribución: Descubrió la fisión nuclear junto a Otto Hahn.
+
+Premio dado a: Solo Otto Hahn (1944, Química).
+
+Razón: Exclusión por ser mujer y judía en la Alemania nazi.
+
+C. Jocelyn Bell Burnell (Física, 1974)
+Contribución: Descubrió los púlsares (estrellas de neutrones).
+
+Premio dado a: Su supervisor, Antony Hewish (1974, Física).
+
+Razón: Era estudiante de doctorado y no fue considerada "suficientemente senior".
+
+D. Esther Lederberg (Medicina, 1958)
+Contribución: Descubrió el virus bacteriófago lambda y técnicas clave en genética.
+
+Premio dado a: Su marido, Joshua Lederberg (1958, Medicina).
+
+Razón: Su trabajo fue atribuido a él por jerarquía de género en la ciencia.
+
+E. Chien-Shiung Wu (Física, 1957)
+Contribución: Demostró la violación de la paridad en física nuclear (experimento Wu).
+
+Premio dado a: Tsung-Dao Lee y Chen Ning Yang (1957, Física).
+
+Razón: Exclusión sistemática de mujeres en física teórica.
+
+2. Recomendaciones para Mejorar la Diversidad y Representación
+A. Reformas en el Proceso de Nominación
+Cuotas no vinculantes: Establecer metas de paridad en nominaciones (como el Nobel de Literatura 2018, pospuesto por falta de diversidad).
+
+Comités más diversos: Incluir más mujeres y expertos de países no occidentales en las academias suecas y noruegas.
+
+B. Reconocimiento Póstumo y Revisión Histórica
+Revisar casos pasados: Crear un informe oficial sobre científicas excluidas (ej.: Rosalind Franklin, Lise Meitner).
+
+Premios honoríficos: Otorgar distinciones especiales a contribuciones ignoradas (como el "Nobel Paralelo" de Derechos Humanos).
+
+C. Visibilización de Mujeres en Ciencia
+Programas educativos: Incluir en libros de texto a figuras como Jocelyn Bell Burnell o Esther Lederberg.
+
+Documentales y medios: Producir contenido sobre científicas no reconocidas (ej.: película "Photograph 51" sobre Franklin).
+
+D. Políticas Institucionales Contra el Sesgo
+Transparencia en nominaciones: Publicar listas de candidatos/as previos para evitar "robo de autoría".
+
+Criterios claros: Evitar que el premio se otorgue solo al "jefe de laboratorio" y no a quienes hicieron el trabajo clave.
+
+E. Apoyo a Investigadoras Actuales
+Financiamiento prioritario: Becas específicas para mujeres en STEM (como las L’Oréal-UNESCO).
+
+Redes de mentoría: Conectar a jóvenes científicas con galardonadas (ej.: iniciativa "Nobel Women’s Initiative").
+
+Conclusión
+El Nobel ha mejorado en diversidad (ej.: Donna Strickland en Física, 2018), pero aún debe corregir injusticias históricas y garantizar equidad futura. La ciencia gana cuando se reconocen todas las mentes brillantes, sin importar género o nacionalidad.
+
 ## Representación geográfica entre países o regiones
 ![image](https://github.com/user-attachments/assets/35ccc9fc-6c34-4700-a5a7-10b9e3f62093)
 
