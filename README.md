@@ -166,4 +166,5 @@ Gráfica lineal:
 ·Una comparativa a lo largo de los años entre hombres y mujeres premiados. Aquí se puede apreciar que la línea de hombres crece de forma constante y pronunciada mientras que la de mujeres se mantiene baja y casi sin cambios. Sin embargo, entre 1960 y 1990 se aprecia la primera subida significante que, aun manteniendo la gran disparidad con hombres, es un dato crucial para saber sobre qué años empezaron a recibir muchos más premios. De ahí en adelante, su incremento ha sido exponencial, pero no similar a los premiados masculinos.
 
 ## Representación geográfica entre países o regiones
-![image](https://github.com/user-attachments/assets/38ef3b19-13fe-4f7f-98d2-2655e34d5491)
+![image](https://github.com/user-attachments/assets/35ccc9fc-6c34-4700-a5a7-10b9e3f62093)
+
