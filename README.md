@@ -81,7 +81,7 @@ Hallazgos clave:
 
 2. Edad de los Galardonados
 
-   Se aprecian edades desde los 17 años, a destacar por ser la más joven de la historia Malala Yousafzai en 2014 Premio Nobel de la Paz, hasta el profesor John Goodenoughlos con 97 años en ganar un Premio Nobel en 2019. En su caso de Química por su contribución al desarrollo de las baterías de iones de litio, al que ha dedicado décadas de años de trabajo y aún activo.
+   La media de edad, a lo largo de los años (1901-2023), es de 60 años. Se observan edades que van desde los 17 años, destacando a Malala Yousafzai, la más joven en recibir el Premio Nobel de la Paz en 2014, hasta los 97 años, con el caso del profesor John Goodenough, quien ganó el Premio Nobel de Química en 2019 por su contribución al desarrollo de las baterías de iones de litio, una labor que ha dedicado décadas de trabajo y sigue siendo activo en la actualidad.
 
 Tendencias por disciplina:
 
