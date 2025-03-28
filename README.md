@@ -195,3 +195,29 @@ Razón: Exclusión sistemática de mujeres en física teórica.
 ## Representación geográfica entre países o regiones
 ![image](https://github.com/user-attachments/assets/35ccc9fc-6c34-4700-a5a7-10b9e3f62093)
 
+## Recomendaciones para mejorar la diversidad y representación
+
+-- Reformas en el proceso de nominación:
+	Establecer metas de paridad en nominaciones (como el Nobel de Literatura 2018, pospuesto por falta de diversidad).
+
+	Incluir más mujeres y expertos de países no occidentales en las academias suecas y noruegas.
+
+-- Reconocimiento Póstumo y revisión histórica
+	Crear un informe oficial sobre científicas excluidas. Como Lise Meitner (Física, 1944) por ser mujer y judía en la Alemania nazi, Esther Lederberg (Medicina, 1958) atribuido a su marido por jerarquía de género en la ciencia, etc..
+	Otorgar distinciones especiales a contribuciones ignoradas, como el "Nobel Paralelo" de Derechos Humanos.Se entrega a individuos o grupos que hayan destacado en la lucha por los derechos fundamentales, la justicia social y la paz, en situaciones donde el Nobel de la Paz tradicional no ha reconocido.
+
+-- Visibilización de Mujeres en Ciencia
+	Incluir en libros de texto a figuras femeninas como Jocelyn Bell Burnell o Esther Lederberg, etc..
+
+	Producir contenido sobre científicas no reconocidas. Película "Photograph 51" sobre Franklin: se centra en la vida de Rosalind Franklin, una científica británica que jugó un papel clave en el descubrimiento de la estructura del ADN y murió antes de la nominación (1958). Su trabajo fue usado sin reconocimiento explícito.
+
+-- Políticas Institucionales Contra el Sesgo
+	Publicar listas de candidatos/as previos para evitar "robo de autoría".
+
+	Evitar que el premio se otorgue solo al "jefe de laboratorio" y no a quienes hicieron el trabajo clave.
+
+	Conectar a jóvenes científicas con galardonadas, como "Nobel Women’s Initiative", organización de defensa internacional con sede en Ottawa, Canadá. Creado en 2006 por seis mujeres ganadoras del Premio Nobel de la Paz para apoyar a grupos de mujeres de todo el mundo. 
+
+Conclusión:
+
+El Nobel ha mejorado en diversidad pero aún debe corregir injusticias históricas y garantizar equidad futura. La ciencia gana cuando se reconocen todas las mentes brillantes, sin importar género o nacionalidad.
