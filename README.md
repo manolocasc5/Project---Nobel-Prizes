@@ -226,5 +226,5 @@ Razón: Exclusión sistemática de mujeres en física teórica.
 
 ## Problemas y soluciones:
 
-Ecnontramos una columna que daba problemas, la de 'Year'. Estaba como texto y lo converti a años para que lo identificara como DATE.
-Y para crear la columna 'award-winning age' tuve que extraer el año de a columna 'Born' convertirla en numero para restar al año del premio y asi sacar la edad cuando recibieron el galardón.
+Econtramos una columna que daba problemas, la de 'Year'. Estaba como texto y lo converti a años para que lo identificara como DATE.
+Y para crear la columna 'award-winning age' tuve que extraer el año de la columna 'Born' convertirla en numero para restar al año del premio y asi sacar la edad cuando recibieron el galardón.
