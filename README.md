@@ -69,7 +69,7 @@ Hallazgos clave:
 
 1. Tendencia general ascendente
 
-    Se observa un aumento progresivo en el número de premios concedidos por año con picos notables como en 2001, donde se registró la mayor cantidad de galardonados, aumentos de categorías que podrían corresponder a premios compartidos o categorías especiales, avances científicos significativos o a la acumulación de méritos en períodos anteriores, especialmente a partir de 1950. En 1969 punto de inflexión visible con la introducción del Premio en Ciencias Económicas. 
+    Se observa un aumento progresivo en el número de premios concedidos por año con picos notables como en 2001, donde se registró la mayor cantidad de galardonados (15), aumentos de categorías que podrían corresponder a premios compartidos o categorías especiales, avances científicos significativos o a la acumulación de méritos en períodos anteriores, especialmente a partir de 1950. En 1969 punto de inflexión visible con la introducción del Premio en Ciencias Económicas. 
 
   Promedio histórico:
     
