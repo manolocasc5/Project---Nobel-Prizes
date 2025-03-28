@@ -203,7 +203,8 @@ Razón: Exclusión sistemática de mujeres en física teórica.
 	Incluir más mujeres y expertos de países no occidentales en las academias suecas y noruegas.
 
 -- Reconocimiento Póstumo y revisión histórica:
-	Crear un informe oficial sobre científicas excluidas. Como Lise Meitner (Física, 1944) por ser mujer y judía en la Alemania nazi, Esther Lederberg (Medicina, 1958) atribuido a su marido por jerarquía de género en la ciencia, etc..
+	
+ Crear un informe oficial sobre científicas excluidas. Como Lise Meitner (Física, 1944) por ser mujer y judía en la Alemania nazi, Esther Lederberg (Medicina, 1958) atribuido a su marido por jerarquía de género en la ciencia, etc..
 	Otorgar distinciones especiales a contribuciones ignoradas, como el "Nobel Paralelo" de Derechos Humanos.Se entrega a individuos o grupos que hayan destacado en la lucha por los derechos fundamentales, la justicia social y la paz, en situaciones donde el Nobel de la Paz tradicional no ha reconocido.
 
 -- Visibilización de Mujeres en Ciencia:
@@ -218,6 +219,4 @@ Razón: Exclusión sistemática de mujeres en física teórica.
 
 	Conectar a jóvenes científicas con galardonadas, como "Nobel Women’s Initiative", organización de defensa internacional con sede en Ottawa, Canadá. Creado en 2006 por seis mujeres ganadoras del Premio Nobel de la Paz para apoyar a grupos de mujeres de todo el mundo. 
 
-Conclusión:
 
-El Nobel ha mejorado en diversidad pero aún debe corregir injusticias históricas y garantizar equidad futura. La ciencia gana cuando se reconocen todas las mentes brillantes, sin importar género o nacionalidad.
