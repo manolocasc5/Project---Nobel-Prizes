@@ -204,7 +204,8 @@ Razón: Exclusión sistemática de mujeres en física teórica.
 
 -- Reconocimiento Póstumo y revisión histórica:
 	
- Crear un informe oficial sobre científicas excluidas. Como Lise Meitner (Física, 1944) por ser mujer y judía en la Alemania nazi, Esther Lederberg (Medicina, 1958) atribuido a su marido por jerarquía de género en la ciencia, etc..
+	Crear un informe oficial sobre científicas excluidas. Como Lise Meitner (Física, 1944) por ser mujer y judía en la Alemania nazi, Esther Lederberg (Medicina, 1958) atribuido a su marido por jerarquía de género en la ciencia, etc..
+	
 	Otorgar distinciones especiales a contribuciones ignoradas, como el "Nobel Paralelo" de Derechos Humanos.Se entrega a individuos o grupos que hayan destacado en la lucha por los derechos fundamentales, la justicia social y la paz, en situaciones donde el Nobel de la Paz tradicional no ha reconocido.
 
 -- Visibilización de Mujeres en Ciencia:
