@@ -69,7 +69,7 @@ Hallazgos clave:
 
 1. Tendencia general ascendente
 
-    Se observa un aumento progresivo en el número de premios concedidos por año con picos notables como en 2001, donde se registró la mayor cantidad de galardonados (15), aumentos de categorías que podrían corresponder a premios compartidos o categorías especiales, avances científicos significativos o a la acumulación de méritos en períodos anteriores, especialmente a partir de 1950. En 1969 punto de inflexión visible con la introducción del Premio en Ciencias Económicas. 
+    Se observa un aumento progresivo en el número de premios concedidos por año con picos notables como en 2001, donde se registró la mayor cantidad de galardonados (15). Aumentos de categorías que podrían corresponder a premios compartidos o categorías especiales, avances científicos significativos o a la acumulación de méritos en períodos anteriores, especialmente a partir de 1950. En 1969 punto de inflexión visible con la introducción del Premio en Ciencias Económicas. 
 
   Promedio histórico:
     
@@ -223,3 +223,8 @@ Razón: Exclusión sistemática de mujeres en física teórica.
 ## Organización de presentación
 
 ![Screenshot from 2025-03-28 12-51-15](https://github.com/user-attachments/assets/af1e0748-33fd-41b0-9563-6a00529955a1)
+
+## Problemas y soluciones:
+
+Ecnontramos una columna que daba problemas, la de 'Year'. Estaba como texto y lo converti a años para que lo identificara como DATE.
+Y para crear la columna 'award-winning age' tuve que extraer el año de a columna 'Born' convertirla en numero para restar al año del premio y asi sacar la edad cuando recibieron el galardón.
