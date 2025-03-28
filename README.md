@@ -202,16 +202,16 @@ Razón: Exclusión sistemática de mujeres en física teórica.
 
 	Incluir más mujeres y expertos de países no occidentales en las academias suecas y noruegas.
 
--- Reconocimiento Póstumo y revisión histórica
+-- Reconocimiento Póstumo y revisión histórica:
 	Crear un informe oficial sobre científicas excluidas. Como Lise Meitner (Física, 1944) por ser mujer y judía en la Alemania nazi, Esther Lederberg (Medicina, 1958) atribuido a su marido por jerarquía de género en la ciencia, etc..
 	Otorgar distinciones especiales a contribuciones ignoradas, como el "Nobel Paralelo" de Derechos Humanos.Se entrega a individuos o grupos que hayan destacado en la lucha por los derechos fundamentales, la justicia social y la paz, en situaciones donde el Nobel de la Paz tradicional no ha reconocido.
 
--- Visibilización de Mujeres en Ciencia
+-- Visibilización de Mujeres en Ciencia:
 	Incluir en libros de texto a figuras femeninas como Jocelyn Bell Burnell o Esther Lederberg, etc..
 
 	Producir contenido sobre científicas no reconocidas. Película "Photograph 51" sobre Franklin: se centra en la vida de Rosalind Franklin, una científica británica que jugó un papel clave en el descubrimiento de la estructura del ADN y murió antes de la nominación (1958). Su trabajo fue usado sin reconocimiento explícito.
 
--- Políticas Institucionales Contra el Sesgo
+-- Políticas Institucionales Contra el Sesgo:
 	Publicar listas de candidatos/as previos para evitar "robo de autoría".
 
 	Evitar que el premio se otorgue solo al "jefe de laboratorio" y no a quienes hicieron el trabajo clave.
