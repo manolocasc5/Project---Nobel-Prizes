@@ -220,4 +220,6 @@ Razón: Exclusión sistemática de mujeres en física teórica.
 
 	Conectar a jóvenes científicas con galardonadas, como "Nobel Women’s Initiative", organización de defensa internacional con sede en Ottawa, Canadá. Creado en 2006 por seis mujeres ganadoras del Premio Nobel de la Paz para apoyar a grupos de mujeres de todo el mundo. 
 
+## Organización de presentación
 
+![Screenshot from 2025-03-28 12-51-15](https://github.com/user-attachments/assets/af1e0748-33fd-41b0-9563-6a00529955a1)
