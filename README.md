@@ -192,35 +192,6 @@ Premio dado a: Tsung-Dao Lee y Chen Ning Yang (1957, Física).
 
 Razón: Exclusión sistemática de mujeres en física teórica.
 
-2. Recomendaciones para Mejorar la Diversidad y Representación
-A. Reformas en el Proceso de Nominación
-Cuotas no vinculantes: Establecer metas de paridad en nominaciones (como el Nobel de Literatura 2018, pospuesto por falta de diversidad).
-
-Comités más diversos: Incluir más mujeres y expertos de países no occidentales en las academias suecas y noruegas.
-
-B. Reconocimiento Póstumo y Revisión Histórica
-Revisar casos pasados: Crear un informe oficial sobre científicas excluidas (ej.: Rosalind Franklin, Lise Meitner).
-
-Premios honoríficos: Otorgar distinciones especiales a contribuciones ignoradas (como el "Nobel Paralelo" de Derechos Humanos).
-
-C. Visibilización de Mujeres en Ciencia
-Programas educativos: Incluir en libros de texto a figuras como Jocelyn Bell Burnell o Esther Lederberg.
-
-Documentales y medios: Producir contenido sobre científicas no reconocidas (ej.: película "Photograph 51" sobre Franklin).
-
-D. Políticas Institucionales Contra el Sesgo
-Transparencia en nominaciones: Publicar listas de candidatos/as previos para evitar "robo de autoría".
-
-Criterios claros: Evitar que el premio se otorgue solo al "jefe de laboratorio" y no a quienes hicieron el trabajo clave.
-
-E. Apoyo a Investigadoras Actuales
-Financiamiento prioritario: Becas específicas para mujeres en STEM (como las L’Oréal-UNESCO).
-
-Redes de mentoría: Conectar a jóvenes científicas con galardonadas (ej.: iniciativa "Nobel Women’s Initiative").
-
-Conclusión
-El Nobel ha mejorado en diversidad (ej.: Donna Strickland en Física, 2018), pero aún debe corregir injusticias históricas y garantizar equidad futura. La ciencia gana cuando se reconocen todas las mentes brillantes, sin importar género o nacionalidad.
-
 ## Representación geográfica entre países o regiones
 ![image](https://github.com/user-attachments/assets/35ccc9fc-6c34-4700-a5a7-10b9e3f62093)
 
