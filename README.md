@@ -83,7 +83,7 @@ Hallazgos clave:
 
    La media de edad, a lo largo de los años (1901-2023), es de 60 años. Se observan edades que van desde los 17 años, destacando a Malala Yousafzai, la más joven en recibir el Premio Nobel de la Paz en 2014, hasta los 97 años, con el caso del profesor John Goodenough, quien ganó el Premio Nobel de Química en 2019 por su contribución al desarrollo de las baterías de iones de litio, una labor que ha dedicado décadas de trabajo y sigue siendo activo en la actualidad.
 
-Tendencias por disciplina:
+3. Edades en disciplina:
 
     Ciencias (Física, Química, Medicina): Los premiados suelen ser mayores (50-70 años), ya que sus contribuciones requieren años de estudio.
 
@@ -152,45 +152,6 @@ Gráfica lineal:
 
 ·Una comparativa a lo largo de los años entre hombres y mujeres premiados. Aquí se puede apreciar que la línea de hombres crece de forma constante y pronunciada mientras que la de mujeres se mantiene baja y casi sin cambios. Sin embargo, entre 1960 y 1990 se aprecia la primera subida significante que, aun manteniendo la gran disparidad con hombres, es un dato crucial para saber sobre qué años empezaron a recibir muchos más premios. De ahí en adelante, su incremento ha sido exponencial, pero no similar a los premiados masculinos.
 
-## APORTACION POR JB!! LEER Y REVISAR/MODIFICAR
-
-1. Casos de Mujeres No Reconocidas en los Premios Nobel
-A lo largo de la historia, varias mujeres han sido ignoradas o desplazadas en favor de hombres (maridos, colegas o superiores). Algunos casos conocidos:
-
-A. Rosalind Franklin (Química, 1962)
-Contribución: Descubrió la estructura del ADN mediante cristalografía de rayos X (Fotografía 51).
-
-Premio dado a: James Watson, Francis Crick y Maurice Wilkins (1962, Fisiología/Medicina).
-
-Razón: Murió antes de la nominación (1958), y su trabajo fue usado sin reconocimiento explícito.
-
-B. Lise Meitner (Física, 1944)
-Contribución: Descubrió la fisión nuclear junto a Otto Hahn.
-
-Premio dado a: Solo Otto Hahn (1944, Química).
-
-Razón: Exclusión por ser mujer y judía en la Alemania nazi.
-
-C. Jocelyn Bell Burnell (Física, 1974)
-Contribución: Descubrió los púlsares (estrellas de neutrones).
-
-Premio dado a: Su supervisor, Antony Hewish (1974, Física).
-
-Razón: Era estudiante de doctorado y no fue considerada "suficientemente senior".
-
-D. Esther Lederberg (Medicina, 1958)
-Contribución: Descubrió el virus bacteriófago lambda y técnicas clave en genética.
-
-Premio dado a: Su marido, Joshua Lederberg (1958, Medicina).
-
-Razón: Su trabajo fue atribuido a él por jerarquía de género en la ciencia.
-
-E. Chien-Shiung Wu (Física, 1957)
-Contribución: Demostró la violación de la paridad en física nuclear (experimento Wu).
-
-Premio dado a: Tsung-Dao Lee y Chen Ning Yang (1957, Física).
-
-Razón: Exclusión sistemática de mujeres en física teórica.
 
 ## Representación geográfica entre países o regiones
 ![image](https://github.com/user-attachments/assets/35ccc9fc-6c34-4700-a5a7-10b9e3f62093)
