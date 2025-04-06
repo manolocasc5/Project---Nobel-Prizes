@@ -90,7 +90,7 @@ Hallazgos clave:
     Paz y Literatura: Edades más variadas, incluyendo galardonados jóvenes con impacto inmediato (activistas).
 
 ## Nobel Prizes by Discipline Over Time
-![Screenshot from 2025-03-26 15-51-22](https://github.com/user-attachments/assets/bc3f51ae-1108-45bb-b45e-fe1709b380bf)
+![image](https://github.com/user-attachments/assets/4de3a073-cfbc-4afc-88b8-9ed3de0f071b)
 
 Esta gráfica de líneas muestra el número de premios Nobel otorgados en seis categorías diferentes (Medicina, Física, Química, Paz, Literatura y Economía) a lo largo del tiempo, desde 1901 hasta 2022.
 
