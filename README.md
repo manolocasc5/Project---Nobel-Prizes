@@ -191,6 +191,9 @@ Econtramos una columna que daba problemas al crear los graficos, la de 'Year'. E
 Y para crear la columna 'award-winning age' tuve que extraer el año de la columna 'Born' convertirla en numero para restar al año del premio y asi sacar la edad cuando recibieron el galardón.
 
 
+## GOOGLE SHEETS (DATASET CLEANING)
+https://docs.google.com/spreadsheets/d/1VfkMwO4aWTH7i3IHePpzet-pUA9PK99E6uK5WT_fJ0I/edit?gid=769569872#gid=769569872
+
 ## GOOGLE LOOKER STUDIO (DASHBOARDS)
 https://lookerstudio.google.com/reporting/cf282ade-6d13-4339-a96e-04168aff3d37/page/p_bg4evr7yqd
 
