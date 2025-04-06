@@ -189,3 +189,10 @@ Gráfica lineal:
 
 Econtramos una columna que daba problemas al crear los graficos, la de 'Year'. Estaba como numero y lo convertimos a años para que lo identificara como DATE.
 Y para crear la columna 'award-winning age' tuve que extraer el año de la columna 'Born' convertirla en numero para restar al año del premio y asi sacar la edad cuando recibieron el galardón.
+
+
+## GOOGLE LOOKER STUDIO (DASHBOARDS)
+https://lookerstudio.google.com/reporting/cf282ade-6d13-4339-a96e-04168aff3d37/page/p_bg4evr7yqd
+
+## CANVA
+https://www.canva.com/design/DAGi7gKIvxQ/Tn_vCT4NRapLOG0YXlJuOg/edit
